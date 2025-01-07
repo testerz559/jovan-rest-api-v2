@@ -1,16 +1,12 @@
 {
   "port": "8080",
-  "title": "Ajiro API",
-  "title2": "Ajiro Rest API",
+  "title": "Bilyabits API",
+  "title2": "Carl John Villavito API",
   "favicon": "https://i.ibb.co/XYk4dXn/image.png",
   "notifications": [
     {
-      "title": "New UI",
-      "description": "We updated our UI to get cooler experience"
-    },
-    {
-      "title": "New Design",
-      "description": "We updated our design to get cooler experience"
+      "title": "Welcome to my API Site!",
+      "description": "Welcome visitors to my API Site!"
     }
   ]
 }
