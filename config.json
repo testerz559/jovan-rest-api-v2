@@ -1,8 +1,8 @@
 {
   "port": "8080",
-  "title": "Bilyabits API",
-  "title2": "Carl John Villavito API",
-  "favicon": "https://i.ibb.co/XYk4dXn/image.png",
+  "title": "Jovan API",
+  "title2": "Jovan Rest API",
+  "favicon": "https://i.imgur.com/4M66HfE.jpeg",
   "notifications": [
     {
       "title": "Welcome to my API Site!",
